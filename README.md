@@ -17,21 +17,20 @@
 ---
 
 🛠️ETH.Build
-An Educational Sandbox For Web3... And Much More.
+Una caja de arena educativa para Web3 ... y mucho más
 
-👉Drag-and-Drop Programming
-🧩Open Source Building Blocks
-🧐Visually Understand How Ethereum Works
+👉Programación de arrastrar y soltar
+🧩Bloques de creación de código abierto
+🧐Comprender visualmente cómo funciona Ethereum
 
 ---
 
 
 [Hash Function](https://youtu.be/QJ010l-pBpE)
-Think of it like a fingerprint of any given input data.
-Input can be any size, output is always the same size (64 hex chars).
-Deterministic, you will always get the same hash for a specific input.
-One directional, given a hash it is impossible to guess the seed.
-
+Piense en ello como una huella digital de cualquier dato de entrada dado. 
+La entrada puede ser de cualquier tamaño, la salida es siempre del mismo tamaño (64 caracteres hexadecimales). 
+Determinista, siempre obtendrá el mismo hash para una entrada específica. 
+Unidireccional, dado un hash es imposible adivinar la semilla. 34
 
 [Key Pair](https://youtu.be/9LtBDy67Tho)
 Consists of a public key derived from a private key.
